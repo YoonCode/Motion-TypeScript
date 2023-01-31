@@ -1,4 +1,4 @@
-#Published App: [Motion-TypeScript](https://celebrated-banoffee-bb8172.netlify.app/)
+#Published App: Motion-TypeScript
 
 #Libraries and Tools that I used
 
